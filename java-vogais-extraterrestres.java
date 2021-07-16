@@ -17,6 +17,8 @@ public class VogaisExtraterrestres {
                 }
             }
             System.out.println(quantidade);
+            
+            scr.nextLine();
         }
     }
 }
